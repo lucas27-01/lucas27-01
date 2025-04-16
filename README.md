@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lucas27-01
 - 👀 I’m interested in Information Technology and Chemistry
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on backrest
+- 🌱 I’m currently learning **Dart** and maybe **Rust**
+- 💞️ I’m looking to find any time to devolp...
 - 📫 How to reach me luigicapp08@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: it
 - ⚡ Fun fact: I'm boring...
 
 <!---
